@@ -1,0 +1,193 @@
+run_id,route_id,service_date,week,origin_station,destination_station,service_type,time_period,passenger_count,delay_minutes,status
+R1-01-A,R1,2026-01-05,1,Harbor,Central,Rapid,AM peak,73,3,On time
+R1-01-P,R1,2026-01-05,1,Harbor,Central,Rapid,PM peak,79,5,On time
+R2-01-A,R2,2026-01-05,1,Central,Museum,Rapid,AM peak,88,6,Minor delay
+R2-01-P,R2,2026-01-05,1,Central,Museum,Rapid,PM peak,94,8,Minor delay
+R3-01-A,R3,2026-01-05,1,Museum,University,Local,AM peak,67,8,Minor delay
+R3-01-P,R3,2026-01-05,1,Museum,University,Local,PM peak,73,10,Minor delay
+R4-01-A,R4,2026-01-05,1,University,North Park,Local,AM peak,59,11,Major delay
+R4-01-P,R4,2026-01-05,1,University,North Park,Local,PM peak,65,13,Major delay
+R5-01-A,R5,2026-01-05,1,North Park,Airport,Express,AM peak,83,15,Major delay
+R5-01-P,R5,2026-01-05,1,North Park,Airport,Express,PM peak,89,17,Major delay
+R6-01-A,R6,2026-01-05,1,Central,Airport,Express,AM peak,105,15,Major delay
+R6-01-P,R6,2026-01-05,1,Central,Airport,Express,PM peak,111,17,Major delay
+R7-01-A,R7,2026-01-05,1,Harbor,Stadium,Event,AM peak,49,7,Minor delay
+R7-01-P,R7,2026-01-05,1,Harbor,Stadium,Event,PM peak,55,9,Minor delay
+R8-01-A,R8,2026-01-05,1,Stadium,Central,Event,AM peak,56,13,Major delay
+R8-01-P,R8,2026-01-05,1,Stadium,Central,Event,PM peak,62,15,Major delay
+R1-02-A,R1,2026-01-12,2,Harbor,Central,Rapid,AM peak,84,5,On time
+R1-02-P,R1,2026-01-12,2,Harbor,Central,Rapid,PM peak,90,7,Minor delay
+R2-02-A,R2,2026-01-12,2,Central,Museum,Rapid,AM peak,99,8,Minor delay
+R2-02-P,R2,2026-01-12,2,Central,Museum,Rapid,PM peak,105,10,Minor delay
+R3-02-A,R3,2026-01-12,2,Museum,University,Local,AM peak,78,10,Minor delay
+R3-02-P,R3,2026-01-12,2,Museum,University,Local,PM peak,84,12,Major delay
+R4-02-A,R4,2026-01-12,2,University,North Park,Local,AM peak,70,13,Major delay
+R4-02-P,R4,2026-01-12,2,University,North Park,Local,PM peak,76,15,Major delay
+R5-02-A,R5,2026-01-12,2,North Park,Airport,Express,AM peak,94,17,Major delay
+R5-02-P,R5,2026-01-12,2,North Park,Airport,Express,PM peak,100,19,Major delay
+R6-02-A,R6,2026-01-12,2,Central,Airport,Express,AM peak,116,17,Major delay
+R6-02-P,R6,2026-01-12,2,Central,Airport,Express,PM peak,122,19,Major delay
+R7-02-A,R7,2026-01-12,2,Harbor,Stadium,Event,AM peak,60,9,Minor delay
+R7-02-P,R7,2026-01-12,2,Harbor,Stadium,Event,PM peak,66,11,Major delay
+R8-02-A,R8,2026-01-12,2,Stadium,Central,Event,AM peak,67,15,Major delay
+R8-02-P,R8,2026-01-12,2,Stadium,Central,Event,PM peak,73,17,Major delay
+R1-03-A,R1,2026-01-19,3,Harbor,Central,Rapid,AM peak,79,6,Minor delay
+R1-03-P,R1,2026-01-19,3,Harbor,Central,Rapid,PM peak,85,8,Minor delay
+R2-03-A,R2,2026-01-19,3,Central,Museum,Rapid,AM peak,94,9,Minor delay
+R2-03-P,R2,2026-01-19,3,Central,Museum,Rapid,PM peak,100,11,Major delay
+R3-03-A,R3,2026-01-19,3,Museum,University,Local,AM peak,73,11,Major delay
+R3-03-P,R3,2026-01-19,3,Museum,University,Local,PM peak,79,13,Major delay
+R4-03-A,R4,2026-01-19,3,University,North Park,Local,AM peak,65,14,Major delay
+R4-03-P,R4,2026-01-19,3,University,North Park,Local,PM peak,71,16,Major delay
+R5-03-A,R5,2026-01-19,3,North Park,Airport,Express,AM peak,89,18,Major delay
+R5-03-P,R5,2026-01-19,3,North Park,Airport,Express,PM peak,95,20,Major delay
+R6-03-A,R6,2026-01-19,3,Central,Airport,Express,AM peak,111,18,Major delay
+R6-03-P,R6,2026-01-19,3,Central,Airport,Express,PM peak,117,20,Major delay
+R7-03-A,R7,2026-01-19,3,Harbor,Stadium,Event,AM peak,55,10,Minor delay
+R7-03-P,R7,2026-01-19,3,Harbor,Stadium,Event,PM peak,61,12,Major delay
+R8-03-A,R8,2026-01-19,3,Stadium,Central,Event,AM peak,62,16,Major delay
+R8-03-P,R8,2026-01-19,3,Stadium,Central,Event,PM peak,68,18,Major delay
+R1-04-A,R1,2026-01-26,4,Harbor,Central,Rapid,AM peak,88,8,Minor delay
+R1-04-P,R1,2026-01-26,4,Harbor,Central,Rapid,PM peak,94,10,Minor delay
+R2-04-A,R2,2026-01-26,4,Central,Museum,Rapid,AM peak,103,11,Major delay
+R2-04-P,R2,2026-01-26,4,Central,Museum,Rapid,PM peak,109,13,Major delay
+R3-04-A,R3,2026-01-26,4,Museum,University,Local,AM peak,82,13,Major delay
+R3-04-P,R3,2026-01-26,4,Museum,University,Local,PM peak,88,15,Major delay
+R4-04-A,R4,2026-01-26,4,University,North Park,Local,AM peak,74,16,Major delay
+R4-04-P,R4,2026-01-26,4,University,North Park,Local,PM peak,80,18,Major delay
+R5-04-A,R5,2026-01-26,4,North Park,Airport,Express,AM peak,98,20,Major delay
+R5-04-P,R5,2026-01-26,4,North Park,Airport,Express,PM peak,104,22,Major delay
+R6-04-A,R6,2026-01-26,4,Central,Airport,Express,AM peak,120,20,Major delay
+R6-04-P,R6,2026-01-26,4,Central,Airport,Express,PM peak,126,22,Major delay
+R7-04-A,R7,2026-01-26,4,Harbor,Stadium,Event,AM peak,64,12,Major delay
+R7-04-P,R7,2026-01-26,4,Harbor,Stadium,Event,PM peak,70,14,Major delay
+R8-04-A,R8,2026-01-26,4,Stadium,Central,Event,AM peak,71,18,Major delay
+R8-04-P,R8,2026-01-26,4,Stadium,Central,Event,PM peak,77,20,Major delay
+R1-05-A,R1,2026-02-02,5,Harbor,Central,Rapid,AM peak,76,4,On time
+R1-05-P,R1,2026-02-02,5,Harbor,Central,Rapid,PM peak,82,6,Minor delay
+R2-05-A,R2,2026-02-02,5,Central,Museum,Rapid,AM peak,91,7,Minor delay
+R2-05-P,R2,2026-02-02,5,Central,Museum,Rapid,PM peak,97,9,Minor delay
+R3-05-A,R3,2026-02-02,5,Museum,University,Local,AM peak,70,9,Minor delay
+R3-05-P,R3,2026-02-02,5,Museum,University,Local,PM peak,76,11,Major delay
+R4-05-A,R4,2026-02-02,5,University,North Park,Local,AM peak,62,12,Major delay
+R4-05-P,R4,2026-02-02,5,University,North Park,Local,PM peak,68,14,Major delay
+R5-05-A,R5,2026-02-02,5,North Park,Airport,Express,AM peak,86,16,Major delay
+R5-05-P,R5,2026-02-02,5,North Park,Airport,Express,PM peak,92,18,Major delay
+R6-05-A,R6,2026-02-02,5,Central,Airport,Express,AM peak,108,16,Major delay
+R6-05-P,R6,2026-02-02,5,Central,Airport,Express,PM peak,114,18,Major delay
+R7-05-A,R7,2026-02-02,5,Harbor,Stadium,Event,AM peak,52,8,Minor delay
+R7-05-P,R7,2026-02-02,5,Harbor,Stadium,Event,PM peak,58,10,Minor delay
+R8-05-A,R8,2026-02-02,5,Stadium,Central,Event,AM peak,59,14,Major delay
+R8-05-P,R8,2026-02-02,5,Stadium,Central,Event,PM peak,65,16,Major delay
+R1-06-A,R1,2026-02-09,6,Harbor,Central,Rapid,AM peak,87,7,Minor delay
+R1-06-P,R1,2026-02-09,6,Harbor,Central,Rapid,PM peak,93,9,Minor delay
+R2-06-A,R2,2026-02-09,6,Central,Museum,Rapid,AM peak,102,10,Minor delay
+R2-06-P,R2,2026-02-09,6,Central,Museum,Rapid,PM peak,108,12,Major delay
+R3-06-A,R3,2026-02-09,6,Museum,University,Local,AM peak,81,12,Major delay
+R3-06-P,R3,2026-02-09,6,Museum,University,Local,PM peak,87,14,Major delay
+R4-06-A,R4,2026-02-09,6,University,North Park,Local,AM peak,73,15,Major delay
+R4-06-P,R4,2026-02-09,6,University,North Park,Local,PM peak,79,17,Major delay
+R5-06-A,R5,2026-02-09,6,North Park,Airport,Express,AM peak,97,19,Major delay
+R5-06-P,R5,2026-02-09,6,North Park,Airport,Express,PM peak,103,21,Major delay
+R6-06-A,R6,2026-02-09,6,Central,Airport,Express,AM peak,119,19,Major delay
+R6-06-P,R6,2026-02-09,6,Central,Airport,Express,PM peak,125,21,Major delay
+R7-06-A,R7,2026-02-09,6,Harbor,Stadium,Event,AM peak,63,11,Major delay
+R7-06-P,R7,2026-02-09,6,Harbor,Stadium,Event,PM peak,69,13,Major delay
+R8-06-A,R8,2026-02-09,6,Stadium,Central,Event,AM peak,70,17,Major delay
+R8-06-P,R8,2026-02-09,6,Stadium,Central,Event,PM peak,76,19,Major delay
+R1-07-A,R1,2026-02-16,7,Harbor,Central,Rapid,AM peak,82,5,On time
+R1-07-P,R1,2026-02-16,7,Harbor,Central,Rapid,PM peak,88,7,Minor delay
+R2-07-A,R2,2026-02-16,7,Central,Museum,Rapid,AM peak,97,8,Minor delay
+R2-07-P,R2,2026-02-16,7,Central,Museum,Rapid,PM peak,103,10,Minor delay
+R3-07-A,R3,2026-02-16,7,Museum,University,Local,AM peak,76,10,Minor delay
+R3-07-P,R3,2026-02-16,7,Museum,University,Local,PM peak,82,12,Major delay
+R4-07-A,R4,2026-02-16,7,University,North Park,Local,AM peak,68,13,Major delay
+R4-07-P,R4,2026-02-16,7,University,North Park,Local,PM peak,74,15,Major delay
+R5-07-A,R5,2026-02-16,7,North Park,Airport,Express,AM peak,92,17,Major delay
+R5-07-P,R5,2026-02-16,7,North Park,Airport,Express,PM peak,98,19,Major delay
+R6-07-A,R6,2026-02-16,7,Central,Airport,Express,AM peak,114,17,Major delay
+R6-07-P,R6,2026-02-16,7,Central,Airport,Express,PM peak,120,19,Major delay
+R7-07-A,R7,2026-02-16,7,Harbor,Stadium,Event,AM peak,58,9,Minor delay
+R7-07-P,R7,2026-02-16,7,Harbor,Stadium,Event,PM peak,64,11,Major delay
+R8-07-A,R8,2026-02-16,7,Stadium,Central,Event,AM peak,65,15,Major delay
+R8-07-P,R8,2026-02-16,7,Stadium,Central,Event,PM peak,71,17,Major delay
+R1-08-A,R1,2026-02-23,8,Harbor,Central,Rapid,AM peak,90,9,Minor delay
+R1-08-P,R1,2026-02-23,8,Harbor,Central,Rapid,PM peak,96,11,Major delay
+R2-08-A,R2,2026-02-23,8,Central,Museum,Rapid,AM peak,105,12,Major delay
+R2-08-P,R2,2026-02-23,8,Central,Museum,Rapid,PM peak,111,14,Major delay
+R3-08-A,R3,2026-02-23,8,Museum,University,Local,AM peak,84,14,Major delay
+R3-08-P,R3,2026-02-23,8,Museum,University,Local,PM peak,90,16,Major delay
+R4-08-A,R4,2026-02-23,8,University,North Park,Local,AM peak,76,17,Major delay
+R4-08-P,R4,2026-02-23,8,University,North Park,Local,PM peak,82,19,Major delay
+R5-08-A,R5,2026-02-23,8,North Park,Airport,Express,AM peak,100,21,Major delay
+R5-08-P,R5,2026-02-23,8,North Park,Airport,Express,PM peak,106,23,Major delay
+R6-08-A,R6,2026-02-23,8,Central,Airport,Express,AM peak,122,21,Major delay
+R6-08-P,R6,2026-02-23,8,Central,Airport,Express,PM peak,128,23,Major delay
+R7-08-A,R7,2026-02-23,8,Harbor,Stadium,Event,AM peak,66,13,Major delay
+R7-08-P,R7,2026-02-23,8,Harbor,Stadium,Event,PM peak,72,15,Major delay
+R8-08-A,R8,2026-02-23,8,Stadium,Central,Event,AM peak,73,19,Major delay
+R8-08-P,R8,2026-02-23,8,Stadium,Central,Event,PM peak,79,21,Major delay
+R1-09-A,R1,2026-03-02,9,Harbor,Central,Rapid,AM peak,77,3,On time
+R1-09-P,R1,2026-03-02,9,Harbor,Central,Rapid,PM peak,83,5,On time
+R2-09-A,R2,2026-03-02,9,Central,Museum,Rapid,AM peak,92,6,Minor delay
+R2-09-P,R2,2026-03-02,9,Central,Museum,Rapid,PM peak,98,8,Minor delay
+R3-09-A,R3,2026-03-02,9,Museum,University,Local,AM peak,71,8,Minor delay
+R3-09-P,R3,2026-03-02,9,Museum,University,Local,PM peak,77,10,Minor delay
+R4-09-A,R4,2026-03-02,9,University,North Park,Local,AM peak,63,11,Major delay
+R4-09-P,R4,2026-03-02,9,University,North Park,Local,PM peak,69,13,Major delay
+R5-09-A,R5,2026-03-02,9,North Park,Airport,Express,AM peak,87,15,Major delay
+R5-09-P,R5,2026-03-02,9,North Park,Airport,Express,PM peak,93,17,Major delay
+R6-09-A,R6,2026-03-02,9,Central,Airport,Express,AM peak,109,15,Major delay
+R6-09-P,R6,2026-03-02,9,Central,Airport,Express,PM peak,115,17,Major delay
+R7-09-A,R7,2026-03-02,9,Harbor,Stadium,Event,AM peak,53,7,Minor delay
+R7-09-P,R7,2026-03-02,9,Harbor,Stadium,Event,PM peak,59,9,Minor delay
+R8-09-A,R8,2026-03-02,9,Stadium,Central,Event,AM peak,60,13,Major delay
+R8-09-P,R8,2026-03-02,9,Stadium,Central,Event,PM peak,66,15,Major delay
+R1-10-A,R1,2026-03-09,10,Harbor,Central,Rapid,AM peak,86,6,Minor delay
+R1-10-P,R1,2026-03-09,10,Harbor,Central,Rapid,PM peak,92,8,Minor delay
+R2-10-A,R2,2026-03-09,10,Central,Museum,Rapid,AM peak,101,9,Minor delay
+R2-10-P,R2,2026-03-09,10,Central,Museum,Rapid,PM peak,107,11,Major delay
+R3-10-A,R3,2026-03-09,10,Museum,University,Local,AM peak,80,11,Major delay
+R3-10-P,R3,2026-03-09,10,Museum,University,Local,PM peak,86,13,Major delay
+R4-10-A,R4,2026-03-09,10,University,North Park,Local,AM peak,72,14,Major delay
+R4-10-P,R4,2026-03-09,10,University,North Park,Local,PM peak,78,16,Major delay
+R5-10-A,R5,2026-03-09,10,North Park,Airport,Express,AM peak,96,18,Major delay
+R5-10-P,R5,2026-03-09,10,North Park,Airport,Express,PM peak,102,20,Major delay
+R6-10-A,R6,2026-03-09,10,Central,Airport,Express,AM peak,118,18,Major delay
+R6-10-P,R6,2026-03-09,10,Central,Airport,Express,PM peak,124,20,Major delay
+R7-10-A,R7,2026-03-09,10,Harbor,Stadium,Event,AM peak,62,10,Minor delay
+R7-10-P,R7,2026-03-09,10,Harbor,Stadium,Event,PM peak,68,12,Major delay
+R8-10-A,R8,2026-03-09,10,Stadium,Central,Event,AM peak,69,16,Major delay
+R8-10-P,R8,2026-03-09,10,Stadium,Central,Event,PM peak,75,18,Major delay
+R1-11-A,R1,2026-03-16,11,Harbor,Central,Rapid,AM peak,83,8,Minor delay
+R1-11-P,R1,2026-03-16,11,Harbor,Central,Rapid,PM peak,89,10,Minor delay
+R2-11-A,R2,2026-03-16,11,Central,Museum,Rapid,AM peak,98,11,Major delay
+R2-11-P,R2,2026-03-16,11,Central,Museum,Rapid,PM peak,104,13,Major delay
+R3-11-A,R3,2026-03-16,11,Museum,University,Local,AM peak,77,13,Major delay
+R3-11-P,R3,2026-03-16,11,Museum,University,Local,PM peak,83,15,Major delay
+R4-11-A,R4,2026-03-16,11,University,North Park,Local,AM peak,69,16,Major delay
+R4-11-P,R4,2026-03-16,11,University,North Park,Local,PM peak,75,18,Major delay
+R5-11-A,R5,2026-03-16,11,North Park,Airport,Express,AM peak,93,20,Major delay
+R5-11-P,R5,2026-03-16,11,North Park,Airport,Express,PM peak,99,22,Major delay
+R6-11-A,R6,2026-03-16,11,Central,Airport,Express,AM peak,115,20,Major delay
+R6-11-P,R6,2026-03-16,11,Central,Airport,Express,PM peak,121,22,Major delay
+R7-11-A,R7,2026-03-16,11,Harbor,Stadium,Event,AM peak,59,12,Major delay
+R7-11-P,R7,2026-03-16,11,Harbor,Stadium,Event,PM peak,65,14,Major delay
+R8-11-A,R8,2026-03-16,11,Stadium,Central,Event,AM peak,66,18,Major delay
+R8-11-P,R8,2026-03-16,11,Stadium,Central,Event,PM peak,72,20,Major delay
+R1-12-A,R1,2026-03-23,12,Harbor,Central,Rapid,AM peak,89,7,Minor delay
+R1-12-P,R1,2026-03-23,12,Harbor,Central,Rapid,PM peak,95,9,Minor delay
+R2-12-A,R2,2026-03-23,12,Central,Museum,Rapid,AM peak,104,10,Minor delay
+R2-12-P,R2,2026-03-23,12,Central,Museum,Rapid,PM peak,110,12,Major delay
+R3-12-A,R3,2026-03-23,12,Museum,University,Local,AM peak,83,12,Major delay
+R3-12-P,R3,2026-03-23,12,Museum,University,Local,PM peak,89,14,Major delay
+R4-12-A,R4,2026-03-23,12,University,North Park,Local,AM peak,75,15,Major delay
+R4-12-P,R4,2026-03-23,12,University,North Park,Local,PM peak,81,17,Major delay
+R5-12-A,R5,2026-03-23,12,North Park,Airport,Express,AM peak,99,19,Major delay
+R5-12-P,R5,2026-03-23,12,North Park,Airport,Express,PM peak,105,21,Major delay
+R6-12-A,R6,2026-03-23,12,Central,Airport,Express,AM peak,121,19,Major delay
+R6-12-P,R6,2026-03-23,12,Central,Airport,Express,PM peak,127,21,Major delay
+R7-12-A,R7,2026-03-23,12,Harbor,Stadium,Event,AM peak,65,11,Major delay
+R7-12-P,R7,2026-03-23,12,Harbor,Stadium,Event,PM peak,71,13,Major delay
+R8-12-A,R8,2026-03-23,12,Stadium,Central,Event,AM peak,72,17,Major delay
+R8-12-P,R8,2026-03-23,12,Stadium,Central,Event,PM peak,78,19,Major delay
